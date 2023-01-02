@@ -12,7 +12,6 @@ class PrayerModel{
 });
   @override
   String toString() {
-
     return [fajr,dhuhr,asr,maghrib,isha].toString();
   }
 }

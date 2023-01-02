@@ -1,9 +1,6 @@
 import 'package:date_format/date_format.dart';
-import 'package:date_picker_timeline/date_picker_timeline.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_date_picker_timeline/flutter_date_picker_timeline.dart';
-import 'package:flutter_date_pickers/flutter_date_pickers.dart';
 import 'package:intl/intl.dart';
 import 'package:prayer_time/core/controller/cubit/app_cubit.dart';
 import 'package:prayer_time/core/controller/cubit/app_states.dart';
