@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:prayer_time/core/controller/cubit/app_cubit.dart';
 import 'package:prayer_time/data/remote/dio_helper.dart';
-import 'package:prayer_time/home.dart';
+import 'package:prayer_time/presentation/screens/home.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

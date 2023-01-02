@@ -2,7 +2,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:prayer_time/data/remote/dio_helper.dart';
 import 'package:prayer_time/domain/model/prayer_model.dart';
-import 'package:prayer_time/home.dart';
+import 'package:prayer_time/presentation/screens/home.dart';
 
 import 'app_states.dart';
 
